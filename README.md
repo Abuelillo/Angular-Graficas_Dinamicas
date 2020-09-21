@@ -1,3 +1,9 @@
+## INFO
+- https://www.chartjs.org/
+- https://cdnjs.com/libraries/Chart.js
+- https://getbootstrap.com/
+
+
 # Graficos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
